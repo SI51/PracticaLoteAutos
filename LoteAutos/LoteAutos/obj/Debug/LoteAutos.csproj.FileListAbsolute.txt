@@ -1,0 +1,63 @@
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\LoteAutos.exe.config
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\LoteAutos.exe
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\LoteAutos.pdb
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\EntityFramework.dll
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\MySql.Data.dll
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\EntityFramework.xml
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.csprojResolveAssemblyReference.cache
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmCompradores.resources
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.frmLogin.resources
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.frmPrincipal.resources
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Migrations.INICIAL.resources
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Properties.Resources.resources
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.csproj.GenerateResource.Cache
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.exe
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.pdb
+C:\Users\Luis-PC\Source\Repos\LoteAutos\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmNuevoComprador.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\LoteAutos.exe.config
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.exe
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.pdb
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\LoteAutos.exe
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\LoteAutos.pdb
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.dll
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\MySql.Data.dll
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.xml
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.csprojResolveAssemblyReference.cache
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmCompradores.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.frmLogin.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmNuevoComprador.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.frmPrincipal.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Migrations.INICIAL.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Properties.Resources.resources
+C:\Users\Luis-PC\Desktop\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.csproj.GenerateResource.Cache
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\LoteAutos.exe.config
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.exe
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.pdb
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\LoteAutos.exe
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\LoteAutos.pdb
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.dll
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\MySql.Data.dll
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.xml
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.csprojResolveAssemblyReference.cache
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmCompradores.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.frmLogin.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmNuevoComprador.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.frmPrincipal.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Properties.Resources.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.csproj.GenerateResource.Cache
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmRoles.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Migrations.inicial.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmNuevoRol.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmPropietario.resources
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\aforge.video.directshow.dll
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\bin\Debug\AForge.Video.dll
+C:\Users\Luis-PC\Documents\5to Cuatri\Noe\1.1\LoteAutos\LoteAutos\obj\Debug\LoteAutos.Vistas.frmNuevoPropietario.resources
